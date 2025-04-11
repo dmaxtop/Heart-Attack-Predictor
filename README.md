@@ -12,4 +12,4 @@ Decision tree
 
 KNN
 
-![0](https://github.com/user-attachments/assets/fddcae7b-dc36-40b3-8629-ab45123d4ee9)
+![0](https://github.com/user-attachments/assets/e7732930-1939-44fc-9d78-578e6bf03c43)
