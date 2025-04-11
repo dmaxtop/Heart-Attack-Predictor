@@ -11,3 +11,5 @@ Support vector (svc)
 Decision tree
 
 KNN
+
+![0](https://github.com/user-attachments/assets/fddcae7b-dc36-40b3-8629-ab45123d4ee9)
